@@ -1,27 +1,29 @@
-# UsersFilterProject
+# User Filter Project - Angular Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
+Este é um projeto de estudo para componentes Angular
 
-## Development server
+## Pré-requisitos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Antes de começar, certifique-se de ter o seguinte instalado:
 
-## Code scaffolding
+Node.js: Download Node.js
+Angular CLI: Instale globalmente com npm install -g @angular/cli
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
 
-## Build
+1. Clone o repositório:
+  git clone https://github.com/IngridAnjos1/users-filter-project.git
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. Navegue até o diretório do projeto:
+  cd users-filter-project
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+3. Instale as dependências:
+   npm install
+   
 
-## Running end-to-end tests
+## Executando o Projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+ng serve
+O aplicativo estará disponível em http://localhost:4200/.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
